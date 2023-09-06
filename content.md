@@ -1,6 +1,6 @@
 # Replace with lesson title
 
-Add your content here! EDIT
+Add your content here!
 
 ## Heading 1
 
