@@ -1,5 +1,7 @@
 # learn-lesson-template
 
+[Full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+
 1. Create a new `appdev-lessons` repo from this template, providing a unique repo name for the lesson.
 
 2. Place all lesson content in `content.md`, do not rename this file.
