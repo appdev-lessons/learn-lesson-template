@@ -16,8 +16,8 @@ Reference images from the `assets/` folder like so:
 ![](assets/example-image.png)
 ```
 
-This will be converted during Lesson rendering on Learn to:
+You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will render in your local markdown preview; and when you connect the repository with a Learn Lesson, the assets will upload to Cloudinary and the paths will automatically be converted to a hosted URL, e.g.:
 
 ```
-![](https://raw.githubusercontent.com/appdev-lessons/REPOSITORY_NAME/BRANCH_NAME/assets/example-image.png)
+![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
 ```

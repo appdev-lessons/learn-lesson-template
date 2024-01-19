@@ -6,6 +6,6 @@
 
 2. Place all lesson content in `content.md`, do not rename this file.
 
-3. Place all assets (images) in the `assets/` directory, do not create additional directories or subdirectories.
+3. Place all assets (images) in the `assets/` directory, do not create additional directories or subdirectories. Limit the contents of the directory to image files.
 
 4. Provide the URL of the repo `https://github.com/appdev-lessons/<repo-name>` in the Learn "New Lesson" form.
