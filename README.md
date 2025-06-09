@@ -10,4 +10,8 @@
 
 4. Provide the URL of the repo `https://github.com/appdev-lessons/<repo-name>` in the Learn "New Lesson" form.
 
+5. **If you want, add a `LICENSE.txt`, copied from another lesson repository**, and add this text to the README:
+  
+```
 All rights reserved — see [LICENSE.txt](LICENSE.txt)
+```
