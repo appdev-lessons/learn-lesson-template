@@ -2,7 +2,7 @@
 
 Add your content here!
 
-[Read up here for full instructions with examples for lesson writing.](https://learn.firstdraft.com/lessons/3-how-to-write-a-lesson)
+[Read up here for full instructions with examples for lesson writing.](https://firstdraft.com/lessons/799-platform-overview)
 
 ## Heading 1
 
@@ -21,3 +21,10 @@ You can use the path `/assets/my-image.png` or `assets/my-image.png`, both will 
 ```
 ![](https://res.cloudinary.com/[CLOUD_NAME]/image/upload/[IMAGE_VERSION]/appdev-lessons/[REPO_NAME]/[BRANCH]/[IMAGE_NAME])
 ```
+
+## Time Taken
+
+---
+
+- Approximately how long (in minutes) did this lesson take you to complete?
+{: .free_text_number #time_taken title="Time taken" points="1" answer="any" }
